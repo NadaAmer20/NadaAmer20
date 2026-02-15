@@ -1,68 +1,168 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Nada+Amer)](https://git.io/typing-svg)
-<h1 align="center"> Backend developer .Net at  Jedra || <br> Software Engineer || Competitive Programmer || <br> Instructor at Ischool </h1>
-
-<!--
-**NadaAmer20/NadaAmer20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  
+# 👋 Hi, I'm Nada Amer
+
+### Backend Developer .NET | Software Engineer | Competitive Programmer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Backend+Developer+.NET+at+Jedra;1%2B+Year+Experience+in+.NET;Instructor+at+iSchool;Passionate+About+Problem+Solving" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-amer-8bb68a225/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaAmer20)
+
 </div>
 
-###
+---
 
+## 🚀 About Me
+```csharp
+public class NadaAmer : BackendDeveloper
+{
+    public string CurrentRole => "Backend .NET Developer at Jedra";
+    public int YearsOfExperience => 1;
+    public string[] Roles => new[] { "Software Engineer", "Competitive Programmer", "Instructor" };
+    
+    public Dictionary<string, string[]> TechStack => new()
+    {
+        ["Backend"] = new[] { "C#", ".NET Core", "ASP.NET Core", "Entity Framework", "LINQ" },
+        ["Frontend"] = new[] { "Angular", "TypeScript", "JavaScript", "HTML5", "CSS3" },
+        ["Database"] = new[] { "SQL Server", "Redis" },
+        ["Tools"] = new[] { "Visual Studio", "VS Code", "Git", "Postman" },
+        ["Languages"] = new[] { "C#", "C++", "JavaScript", "TypeScript" }
+    };
+    
+    public string CurrentlyLearning => "Microservices Architecture & Cloud Technologies";
+    public string[] Interests => new[] { "Problem Solving", "System Design", "Teaching" };
+}
+```
+
+---
+
+## 💼 Professional Experience
+
+**Backend .NET Developer** @ Jedra  
+🔹 Building scalable web applications using ASP.NET Core  
+🔹 Designing RESTful APIs and implementing business logic  
+🔹 Working with Entity Framework Core and SQL Server  
+🔹 Implementing caching strategies using Redis  
+
+**Instructor** @ iSchool  
+🔹 Teaching programming fundamentals and problem-solving  
+🔹 Mentoring students in competitive programming  
+🔹 Developing educational content and curriculum  
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NadaAmer20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 </div>
 
-###
-
+### Frontend Development
 <div align="center">
-  <a href="https://www.linkedin.com/in/nada-amer-8bb68a225/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
- 
+  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
-###
-
+### Database & Caching
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadaAmer20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAmer20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </div>
 
-###
+### Tools & Technologies
+<div align="center">
+  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+### Programming Languages
+<div align="center">
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+```
+🎯 Problem Solver | Algorithm Enthusiast | Data Structures Expert
+```
+
+🔸 Active competitive programmer  
+🔸 Strong foundation in algorithms and data structures  
+🔸 Experience with C++ for competitive programming  
+🔸 Teaching problem-solving techniques to students  
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=NadaAmer20&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NadaAmer20&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAmer20&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+```typescript
+const currentGoals = {
+    learning: ['Microservices', 'Docker', 'Azure Cloud Services', 'Design Patterns'],
+    improving: ['System Design', 'Clean Architecture', 'Unit Testing'],
+    teaching: ['Backend Development', 'Problem Solving', 'Algorithms'],
+    building: ['Scalable APIs', 'Real-world Projects', 'Portfolio']
+};
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-amer-8bb68a225/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadaAmer20)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=NadaAmer20&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐️ From [NadaAmer20](https://github.com/NadaAmer20) with 💜
+
+</div>
