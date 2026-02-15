@@ -27,10 +27,10 @@ public class NadaAmer : BackendDeveloper
     public Dictionary<string, string[]> TechStack => new()
     {
         ["Backend"] = new[] { "C#", ".NET Core", "ASP.NET Core", "Entity Framework", "LINQ" },
-        ["Frontend"] = new[] { "Angular", "TypeScript", "JavaScript", "HTML5", "CSS3" },
+        ["Frontend"] = new[] { "JavaScript", "HTML5", "CSS3" },
         ["Database"] = new[] { "SQL Server", "Redis" },
         ["Tools"] = new[] { "Visual Studio", "VS Code", "Git", "Postman" },
-        ["Languages"] = new[] { "C#", "C++", "JavaScript", "TypeScript" }
+        ["Languages"] = new[] { "C#", "C++", "JavaScript", "c","Java" }
     };
     
     public string CurrentlyLearning => "Microservices Architecture & Cloud Technologies";
