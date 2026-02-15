@@ -53,7 +53,6 @@ public class NadaAmer : BackendDeveloper
 🔹 Teaching programming fundamentals and problem-solving  
 🔹 Mentoring students in competitive programming  
 🔹 Developing educational content and curriculum  
-🔹 Preparing students for coding interviews  
 
 ---
 
