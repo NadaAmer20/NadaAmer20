@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Nada+Amer)](https://git.io/typing-svg)
-<h1 align="center"> Backend developer .Net at Scope Links LLC || <br> Software Engineer || Competitive Programmer || <br> Instructor at Ischool </h1>
+<h1 align="center"> Backend developer .Net at  Jedra || <br> Software Engineer || Competitive Programmer || <br> Instructor at Ischool </h1>
 
 <!--
 **NadaAmer20/NadaAmer20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
